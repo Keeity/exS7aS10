@@ -13,10 +13,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     {/* <App /> */}
-    <Ex1/>
+    {/* <Ex1/> */}
     {/* <Ex2/> */}
     {/* <Ex3/> */}
-    {/* <Ex4/> */}
+    <Ex4/>
     {/* <Ex5/> */}
   </React.StrictMode>,
 )
